@@ -1,0 +1,16 @@
+{
+  "name": "question8",
+  "version": "1.0.0",
+  "description": "",
+  "main": "test.js",
+   "scripts": {
+    "start": "node test.js start",
+    "test": "node test.js test",
+    "hello": "node test.js hello",
+    "greet": "node test.js greet",
+    "bye": "node test.js bye"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
